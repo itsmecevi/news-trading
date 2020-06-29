@@ -28,6 +28,57 @@ Konsep utama dalam memahami pasar finansial secara umum
 
 
 
+### 3-Bagaimana market bergerak?
+
+-Setiap mata uang dan komoditas mempunyai pola pergerakan sendiri, maksimum pergerakan harian, support dan resistance level, dan juga pangsa pasar tersendiri
+
+-Kunci sukses trading adalah pemahaman terhadap instrumen pasar mana yang dipilih untuk trading seperti emas, mata uang, atau bahkan minyak mentah
+
+-Pembelajaran tentang pergerakan harian, support dan resistance level, dan juga korelasi merupakah hal penting dalam trading
+
+-Korelasi utama dalam mata uang ada 3 mata uang, yaitu EUR/USD, GBP/USD, dan EUR/GBP
+
+-Rangkuman:
+* Tiap instrumen bergerak dengan pola tertentu
+* Pergerakan harian, support & resistance, korelasi antar instrumen merupakan hal terpenting dalam memahami pergerakan instrument tersebut
+* Gunakan selalu korelasi untuk mengkonfirmasi pergerakan harian instrumen yang ditrading kan
+* Batasi instrumen hanya beberapa jenis, tidak boleh lebih dari 4 jenis instrumen pasar
+* Fokus pada beberapa instrumen lebih baik daripada fokus ke banyak instrumen pasar
+
+
+### 4-Kapan market bergerak?
+
+- Jam buka mata uang di negara masing-masing
+
+- Pembukaan dan penutupan saham
+
+- Rangkuman:
+* Trading lah pada saat jam pembukaan negara pemilik mata uang negara tersebut
+* Gunakan selalu filter waktu. Sulit untuk menentukan prediksi naik atau turun, tetapi sangat mudah menentukan kapan akan naik (puncak) dan turun (lembah)
+* Selain dari jam buka dari pasar mata uang pemilik mata uang negara tersebu, jangan lupa analisa pembukaan atau penutupan pasar saham
+
+
+### 5-Berita fundamental seperti yang digunakan untuk trading
+
+-Kunci utama dari trading dengan menggunaka berita adalah selektif memilih berita yang akan bepengaruh signifikan ke market
+
+-Faktor lain yang penting juga adalah reaksi terhadap resiko. Ada 2 jenis reaksi terhadap resiko yang terjadi di pasar finansial
+* Risk Aversion-> menghindari resiko dengan menjual aset beresiko seperti GBD dan AUD dan membeli aset safe-haven seperti emas dan JPY
+* Berita yang menghasilkan rumor atau isu yang berpotensi market mengambil resiko adalah sbb:
+    **Geopolitik, isu perang dan teroris
+    **Penurunan kinerja industri
+    **Data fundamental seperti perumahan, tingkat pengangguran, dll
+* Cara terbaik menyikapi hal tersebut adalah tidak trading di tengah ketidakpastian, dan trading setelah data fundamental tertentu dirilis
+* Risk Appetite-> market ingin mengambil resiko dengan membeli aset beresiko seperti GBP dan menjual JPY
+* Berita yang menghasilkan risk appetite adalah sbb:
+    **Stabilitas Geopolitik
+    **Penghasilan atau kenaikan yang stabil dari sektor industri
+    **Data dan berita dari fundamental yang mengkabarkan tentang lebih baik dari prediksi
+- Rangkuman:
+* Risk Aversion-> Kenaikan di aset safe-haven seperti JPY dan XAU
+* Risk Appetite-> Penurunan di aset safe-haven tetapi kenaikan di aset beresiko seperti mata uang GBP da saham. Risk Appetite menimbulkan kondisi market yang stabil dan keseharian pergeraka yang stabil
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/news-trading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
