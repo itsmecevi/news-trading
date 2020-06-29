@@ -73,8 +73,10 @@ Konsep utama dalam memahami pasar finansial secara umum
     * Stabilitas Geopolitik
     * Penghasilan atau kenaikan yang stabil dari sektor industri
     * Data dan berita dari fundamental yang mengkabarkan tentang lebih baik dari prediksi
+    
 * Rangkuman:
-  * Risk Aversion-> Kenaikan di aset safe-haven seperti JPY dan XAU
+  
+     * Risk Aversion-> Kenaikan di aset safe-haven seperti JPY dan XAU
   * Risk Appetite-> Penurunan di aset safe-haven tetapi kenaikan di aset beresiko seperti mata uang GBP da saham. Risk Appetite menimbulkan kondisi market yang stabil dan keseharian pergeraka yang stabil
   
 
@@ -103,13 +105,20 @@ Parameter inflasi diwakili oleh indikator berikut ini:
       * Ekonomi↑ -> inflasi↑
       
 2.1. Berita yang langsung berpengaruh kepada pertumbuhan ekonomi:
+
 --GDP (Gross Domestic Product): total produksi barang dan jasa
+
 --Retail Sales: Angka penjualan
+
 --Sales↑ -> GDP↑ -> Inflasi↑ -> Nilai mata uang↑
+
 2.2. Berita yang langsung berpengaruh kepada pertumbuhan tenaga kerja:
+
 --Non-Farm Payroll↑ -> GDP↑-> Nilai mata uang↑: angka tenaga kerja non pertanian
 --ISM (Institute of Supply Management)↑ -> GDP↑ -> Nilai mata uang↑
+
 2.3. Berita yang berpengaruh langsung kepada pasar property:
+
 --New Home Sales↑ or Existing Home Sales -> GDP↑ -> Nilai mata uang↑: penjualan rumah baru/rumah lama
 --Durable Goods↑ -> GDP↑ -> Nilai mata uang↑
 
