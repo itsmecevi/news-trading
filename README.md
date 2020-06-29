@@ -91,7 +91,7 @@ Berita fundamental utama yang dirilis terdiri dari 4 berita utama:
 
 Kita tidak perlu menjadi ahli ekonomi dan tahu segala hal tentang perekonomian, yang kita perlukan hanya berita fundamental apa dan bagaimana kita harus trading dengan berita yang dirilis itu. Berikut penjelasan mengenai 4 hal di atas:
 
-* 1. Inflasi
+* 1-Inflasi
           
           * Inflasi↑ -> Suku bunga↑ -> Ekonomi↑ 
           
@@ -100,7 +100,7 @@ Parameter inflasi diwakili oleh indikator berikut ini:
                 * CPI (Consumer Price Index)↑->Mata uang↑: biaya hidup, indek konsumer market
                 * PPI (Producer Price Index)↑->Mata uang↑: biaya produksi, indek produser market
 
-* 2. Ekonomi
+* 2-Ekonomi
     
       * Ekonomi↑ -> inflasi↑
       
@@ -115,11 +115,13 @@ Parameter inflasi diwakili oleh indikator berikut ini:
 2.2. Berita yang langsung berpengaruh kepada pertumbuhan tenaga kerja:
 
 --Non-Farm Payroll↑ -> GDP↑-> Nilai mata uang↑: angka tenaga kerja non pertanian
+
 --ISM (Institute of Supply Management)↑ -> GDP↑ -> Nilai mata uang↑
 
 2.3. Berita yang berpengaruh langsung kepada pasar property:
 
 --New Home Sales↑ or Existing Home Sales -> GDP↑ -> Nilai mata uang↑: penjualan rumah baru/rumah lama
+
 --Durable Goods↑ -> GDP↑ -> Nilai mata uang↑
 
 
