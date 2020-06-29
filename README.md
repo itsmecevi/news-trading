@@ -1,4 +1,4 @@
-## Chapter 1: Gambaran umum teknis trading
+## 1-Gambaran umum teknis trading
 
 4 konsep utama dalam trading:
 1. Fundamental
@@ -13,7 +13,7 @@ Konsep utama dalam memahami pasar finansial secara umum
 3. Kapan pasar finansial bergerak
 
 
-## Chapter 2: Kenapa market bergerak?
+## 2-Kenapa market bergerak?
 
 -Pergerakan terjadi karena adanya buyer dan seller yang lebih dominan. Jika buy yang lebih dominan, maka harga akan naik, pun sebaliknya
 
