@@ -106,23 +106,19 @@ Parameter inflasi diwakili oleh indikator berikut ini:
       
 2.1. Berita yang langsung berpengaruh kepada pertumbuhan ekonomi:
 
---GDP (Gross Domestic Product): total produksi barang dan jasa
-
---Retail Sales: Angka penjualan
-
---Sales↑ -> GDP↑ -> Inflasi↑ -> Nilai mata uang↑
+    --GDP (Gross Domestic Product): total produksi barang dan jasa
+    --Retail Sales: Angka penjualan
+    --Sales↑ -> GDP↑ -> Inflasi↑ -> Nilai mata uang↑
 
 2.2. Berita yang langsung berpengaruh kepada pertumbuhan tenaga kerja:
 
---Non-Farm Payroll↑ -> GDP↑-> Nilai mata uang↑: angka tenaga kerja non pertanian
-
---ISM (Institute of Supply Management)↑ -> GDP↑ -> Nilai mata uang↑
+    --Non-Farm Payroll↑ -> GDP↑-> Nilai mata uang↑: angka tenaga kerja non pertanian
+    --ISM (Institute of Supply Management)↑ -> GDP↑ -> Nilai mata uang↑
 
 2.3. Berita yang berpengaruh langsung kepada pasar property:
 
---New Home Sales↑ or Existing Home Sales -> GDP↑ -> Nilai mata uang↑: penjualan rumah baru/rumah lama
-
---Durable Goods↑ -> GDP↑ -> Nilai mata uang↑
+    --New Home Sales↑ or Existing Home Sales -> GDP↑ -> Nilai mata uang↑: penjualan rumah baru/rumah lama
+    --Durable Goods↑ -> GDP↑ -> Nilai mata uang↑
 
 
 
