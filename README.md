@@ -16,8 +16,11 @@ Konsep utama dalam memahami pasar finansial secara umum
 ## Chapter 2: Kenapa market bergerak?
 
 -Pergerakan terjadi karena adanya buyer dan seller yang lebih dominan. Jika buy yang lebih dominan, maka harga akan naik, pun sebaliknya
+
 -Karena market berpikir bahwa nilai mata uang tertentu atau komoditas lebih berhara pada saat itu dibandingkan dengan komoditas atau mata uang lainnya
+
 -Pergerakan terjadi karena adanya berita fundamental yang membuat market mencari titik keseimbangannya
+
 -Rangkuman:
 * Berita fundamentla menggerakan market
 * Market mencari titik keseimbangannya dalam harga
