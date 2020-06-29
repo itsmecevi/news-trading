@@ -1,4 +1,4 @@
-## 1-Konsep utama
+## 1-Konsep utama trading
 
 4 konsep utama dalam trading:
 1. Fundamental
