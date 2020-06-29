@@ -58,23 +58,22 @@ Konsep utama dalam memahami pasar finansial secara umum
 
 ### 5-Berita fundamental seperti yang digunakan untuk trading
 
--Kunci utama dari trading dengan menggunaka berita adalah selektif memilih berita yang akan bepengaruh signifikan ke market
-
--Faktor lain yang penting juga adalah reaksi terhadap resiko. Ada 2 jenis reaksi terhadap resiko yang terjadi di pasar finansial
+* Kunci utama dari trading dengan menggunaka berita adalah selektif memilih berita yang akan bepengaruh signifikan ke market
+* Faktor lain yang penting juga adalah reaksi terhadap resiko. Ada 2 jenis reaksi terhadap resiko yang terjadi di pasar finansial
 * Risk Aversion-> menghindari resiko dengan menjual aset beresiko seperti GBD dan AUD dan membeli aset safe-haven seperti emas dan JPY
-* Berita yang menghasilkan rumor atau isu yang berpotensi market mengambil resiko adalah sbb:
-    **Geopolitik, isu perang dan teroris
-    **Penurunan kinerja industri
-    **Data fundamental seperti perumahan, tingkat pengangguran, dll
+- Berita yang menghasilkan rumor atau isu yang berpotensi market mengambil resiko adalah sbb:
+    * Geopolitik, isu perang dan teroris
+    * Penurunan kinerja industri
+    * Data fundamental seperti perumahan, tingkat pengangguran, dll
 * Cara terbaik menyikapi hal tersebut adalah tidak trading di tengah ketidakpastian, dan trading setelah data fundamental tertentu dirilis
 * Risk Appetite-> market ingin mengambil resiko dengan membeli aset beresiko seperti GBP dan menjual JPY
-* Berita yang menghasilkan risk appetite adalah sbb:
-    **Stabilitas Geopolitik
-    **Penghasilan atau kenaikan yang stabil dari sektor industri
-    **Data dan berita dari fundamental yang mengkabarkan tentang lebih baik dari prediksi
-- Rangkuman:
-* Risk Aversion-> Kenaikan di aset safe-haven seperti JPY dan XAU
-* Risk Appetite-> Penurunan di aset safe-haven tetapi kenaikan di aset beresiko seperti mata uang GBP da saham. Risk Appetite menimbulkan kondisi market yang stabil dan keseharian pergeraka yang stabil
+- Berita yang menghasilkan risk appetite adalah sbb:
+    * Stabilitas Geopolitik
+    * Penghasilan atau kenaikan yang stabil dari sektor industri
+    * Data dan berita dari fundamental yang mengkabarkan tentang lebih baik dari prediksi
+* Rangkuman:
+  * Risk Aversion-> Kenaikan di aset safe-haven seperti JPY dan XAU
+  * Risk Appetite-> Penurunan di aset safe-haven tetapi kenaikan di aset beresiko seperti mata uang GBP da saham. Risk Appetite menimbulkan kondisi market yang stabil dan keseharian pergeraka yang stabil
 
 
 ## Welcome to GitHub Pages
