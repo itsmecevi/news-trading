@@ -1,3 +1,30 @@
+## Chapter 1: Gambaran umum teknis trading
+
+4 konsep utama dalam trading:
+1. Fundamental
+2. Teknikal
+3. Penawaran dan permintaa
+4. Sentimen pasar
+
+
+Konsep utama dalam memahami pasar finansial secara umum
+1. Kenapa pasar finansial begerak?
+2. Bagaimana pasar finansial bergerak?
+3. Kapan pasar finansial bergerak
+
+
+## Chapter 2: Kenapa market bergerak?
+
+-Pergerakan terjadi karena adanya buyer dan seller yang lebih dominan. Jika buy yang lebih dominan, maka harga akan naik, pun sebaliknya
+-Karena market berpikir bahwa nilai mata uang tertentu atau komoditas lebih berhara pada saat itu dibandingkan dengan komoditas atau mata uang lainnya
+-Pergerakan terjadi karena adanya berita fundamental yang membuat market mencari titik keseimbangannya
+-Rangkuman:
+* Berita fundamentla menggerakan market
+* Market mencari titik keseimbangannya dalam harga
+* Harga sekarang atau saat ini merupakan persepsi market bagaimana harg masa depan akan terjadi (futures)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/news-trading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
