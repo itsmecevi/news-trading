@@ -48,14 +48,12 @@ Konsep utama dalam memahami pasar finansial secara umum
 
 ### 4-Kapan market bergerak?
 
-- Jam buka mata uang di negara masing-masing
-
-- Pembukaan dan penutupan saham
-
-- Rangkuman:
-* Trading lah pada saat jam pembukaan negara pemilik mata uang negara tersebut
-* Gunakan selalu filter waktu. Sulit untuk menentukan prediksi naik atau turun, tetapi sangat mudah menentukan kapan akan naik (puncak) dan turun (lembah)
-* Selain dari jam buka dari pasar mata uang pemilik mata uang negara tersebu, jangan lupa analisa pembukaan atau penutupan pasar saham
+* Jam buka mata uang di negara masing-masing
+* Pembukaan dan penutupan saham
+* Rangkuman:
+   * Trading lah pada saat jam pembukaan negara pemilik mata uang negara tersebut
+   * Gunakan selalu filter waktu. Sulit untuk menentukan prediksi naik atau turun, tetapi sangat mudah menentukan kapan akan naik (puncak) dan turun (lembah)
+   * Selain dari jam buka dari pasar mata uang pemilik mata uang negara tersebu, jangan lupa analisa pembukaan atau penutupan pasar saham
 
 
 ### 5-Berita fundamental seperti yang digunakan untuk trading
