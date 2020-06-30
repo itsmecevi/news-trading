@@ -120,6 +120,13 @@ Parameter inflasi diwakili oleh indikator berikut ini:
     --New Home Sales↑ or Existing Home Sales -> GDP↑ -> Nilai mata uang↑: penjualan rumah baru/rumah lama
     --Durable Goods↑ -> GDP↑ -> Nilai mata uang↑
 
+* 3-Infrastruktur
+
+3.1. Current Account: total ekspor-total impor
+3.2. Trade Balance: ekspor-impor perdagangan diluar saham dan mata uang asing
+3.3. Capital Flow: total investasi yang masuk dan keluar
+3.4. Berita lainnya seperti Consumer Sentiment (sentimen pelanggan), Consumer Confidence (kenyamanan pelanggan), Chicago PMI (Purchasing Manager Indeks), dll. Berita tersebut tidak terlalu menggerakan pasar kecuali ada prediksi yang sangat jauh berbeda dari data yang dirilis sebelumnnya
+3.5. 
 
 
 ## Welcome to GitHub Pages
