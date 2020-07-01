@@ -123,10 +123,21 @@ Parameter inflasi diwakili oleh indikator berikut ini:
 * 3-Infrastruktur
 
 3.1. Current Account: total ekspor-total impor
+
 3.2. Trade Balance: ekspor-impor perdagangan diluar saham dan mata uang asing
+
 3.3. Capital Flow: total investasi yang masuk dan keluar
+
 3.4. Berita lainnya seperti Consumer Sentiment (sentimen pelanggan), Consumer Confidence (kenyamanan pelanggan), Chicago PMI (Purchasing Manager Indeks), dll. Berita tersebut tidak terlalu menggerakan pasar kecuali ada prediksi yang sangat jauh berbeda dari data yang dirilis sebelumnnya
-3.5. 
+
+3.5. Pidato bank sentral: kebijakan bank sentral akan ditentukan pas pemimpin bank sentral tersebut memberikan pidato. Biasanya market bereaksi sangat cepat setelah pidato tersebut
+
+* Rangkuman pergerakan market
+
+
+
+
+### 7-Teknik Trading
 
 
 ## Welcome to GitHub Pages
