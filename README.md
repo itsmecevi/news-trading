@@ -132,7 +132,10 @@ Parameter inflasi diwakili oleh indikator berikut ini:
 
 3.5. Pidato bank sentral: kebijakan bank sentral akan ditentukan pas pemimpin bank sentral tersebut memberikan pidato. Biasanya market bereaksi sangat cepat setelah pidato tersebut
 
-* Rangkuman pergerakan market
+
+Rangkuman pergerakan market:
+
+
 
 
 
