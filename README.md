@@ -170,6 +170,8 @@ Cara berpikir news-trading:
 * Jangan berpikir bahwa ketika data dirilis, maka market akan bergerak sesuai dengan aturan daripada news-trading. Bisa saja pergerakan harga justru terjadi sebaliknya karena faktor yang lebih kuat lainnya diluar daripada data yang sedang dirilis. Tidak ada yang mutlak dalam trading
 * Kita tidak akan membentuk opinis dan persepsi sendiri kepada market, kita akan trading setelah data dirilis sesuai dengan perencanaan trading yang telah kita buat
 * Kita hanya trading berdasar dari reaksi singkat market setelah data fundamental dirilis, paling tidak 30 menit dan maksimum 2 jam
+* Kita harus fleksible dalam trading. Jika market berlawanan arah dengan kecenderungan data fundamental yang telah dirilis, kita harus menghormati market dan membuka posisi di arah berlawanan tersebut
+* 
 
 
 
