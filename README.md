@@ -135,6 +135,14 @@ Parameter inflasi diwakili oleh indikator berikut ini:
 
 Rangkuman pergerakan market:
 
+![n1](https://user-images.githubusercontent.com/27078712/86264811-2b84fb00-bbed-11ea-8192-09cfe4828b40.PNG)
+![n2](https://user-images.githubusercontent.com/27078712/86264847-3770bd00-bbed-11ea-9148-5a71799b880d.PNG)
+![n3](https://user-images.githubusercontent.com/27078712/86264852-38095380-bbed-11ea-81cc-e9787ae95556.PNG)
+![n4](https://user-images.githubusercontent.com/27078712/86264855-38a1ea00-bbed-11ea-9a44-d735362a8579.PNG)
+![n5](https://user-images.githubusercontent.com/27078712/86264857-393a8080-bbed-11ea-8811-a4ffa69c1f07.PNG)
+
+
+
 
 
 
