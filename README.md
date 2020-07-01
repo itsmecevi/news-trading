@@ -150,6 +150,16 @@ Rangkuman pergerakan market:
 
 ### 7-Teknik Trading
 
+Pertama-tama mari kita mengenal beberapa istilah dalam news-trading: 
+
+* Prediksi (Forecasting, Concensus, Expecting)-> dirilis oleh badan-badan ekonomi dan media ekonomi seperti bloomberg, Reuters, dll. Tiap lembaga pasti mempunyai pandangan yang berbeda dan itu merupakan hal yang wajar karena prediksi tidaklah harus benar, tapi tanpa prediksi, pendekatan kecenderungan harga akan semakin bias
+* Deviasi (Deviation)-> perbedaan angka antara prediksi dan angka nilai sekarang yang telah dirilis pada periode sebelumnya
+* Aktual figur-> angka sebenarnya pada periode saat ini yang dirilis lembaga resmi yang berhak mengeluarkan data tersebut
+* Revisi-> Angka yang keluar setelah prediksi dan angka pada periode sebelumnya
+
+
+
+
 
 ## Welcome to GitHub Pages
 
