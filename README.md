@@ -247,7 +247,12 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
     * Buka posisi di dalam tren yang telah terjadi jika terlihat trend sebelum data ekonomi dirilis dan tutup posisi sebelum data update akan dirilis. Sentimen market sebenarnya tidak punya efek terhadap pasar. Jika kita bisa membuat profit 40 pips sampai 100 pips di setiap sentimen. Itu sudah lebih dari cukup. Sebagai tambahan, kita juga bisa mendapatkan profit ketika retracment atau reversal dari sentimen market yang ada
     * Bacalah analisa dari beragam ahli pasar atau ekonomi. Hal tersebut akan membuat pandangan kita lebih luas dan lebih punya gambaran umum apa yang sedang terjadi di pasar
     * Tidak semua berita fundamental yan dirilis dipergunakan untuk trading atau menghasilkan profit. Jika market tidak menentu, makan sebaiknya tidak trading, kecuali terlihat dengen jelas secara tren dan hubungannya dengan berita fundamental yang dirilis
-    * 
+    
+* Market akan mencoba menentukan indeks harga dengan news sebelum data tersebut dirilis. Teknik trading tersebut disebut Short Term Market Sentiment
+* Retail trader harus memahami kondisi market dengan penuh. Orang orang hanya mengikuti market tanpa mengetahui penyebabnya apa. Bagaimana pun juga sebagai trader, jika kita terus memantau harga, sangatlah tidak sulit untuk melihat kecenderungan market misal seminggu yang akan datang
+* Trader harus memahami bahwa market tidak bergerak berdasarkan Teknikal analisis seperti Moving Average atau Bollinger Band. Jika hal itu benar, maka 95% trader akan menghasilkan profit di market. Kebanyakan trader akan memilih teknik yang rumit meski mereka tidak faham akan apa yang mereka gunakan. Sama halnya dengan jika kita menambahkan nilai kepada suatu barang tertentu, meskipun barangnya sama, tetapi harganya bisa berbeda.
+
+ 
 
 
 
