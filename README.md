@@ -165,7 +165,7 @@ Poin utama news-trading:
 * Besarnya pergerakan dengan besarnya deviasi antara prediksi dan juga data asli yang dirilis harus menjadi data tersendiri sehingga kita hanya melakukan trading jika deviasi yang kita targetkan tercapai
 * Kita harus fokus ke berita yang prediksinya sesuai deangan arah prediksi dan mempunyai pengaruh pergerakan yang signifikan yang bisa menggerakan market secara besar
 * Asumsi kita bahwa, market akan bereaksi berlebihan terhadap news dan terjadinya pergerakan harga yang signifikan
-* 
+
 
 
 Cara berpikir news-trading:
@@ -175,6 +175,21 @@ Cara berpikir news-trading:
 * Kita hanya trading berdasar dari reaksi singkat market setelah data fundamental dirilis, paling tidak 30 menit dan maksimum 2 jam
 * Kita harus fleksible dalam trading. Jika market berlawanan arah dengan kecenderungan data fundamental yang telah dirilis, kita harus menghormati market dan membuka posisi di arah berlawanan tersebut
 * Studi market dengan news yang telah dirilis, maka kita akan menemukan bahwa ternyata ada jenis market tertentu dan pada saat tertentu yang pergeraknnya tidak terlalu signifikan sesuai dengan kecenderungan arah yang terlah diprediksi
+* Sangat penting kita memiliki satu sumber berita yang mencakup semua hal berita penting, baik itu rilis data penting fundamental semua negara (kalender ekonomi) dan juga berita-berita harian penting penggerak pasar yang bersumber dari bloomberg, reuters, dan media ekonomi dunia lainnya. Berikut 2 link tentang kedua hal tersebut:
+    * Kalender ekonomi: https://www.forexfactory.com/calendar
+    * Berita penting ekonomi dunia: https://www.koyfin.com/
+ 
+ _____
+ 
+ Teknik news trading "The Spike":
+ 
+1. Tunggu data ekonomi rilis dan buka posisi hanya jika deviasi antara prediksi dan yang data keluar telah mencapi target
+2. Kita hanya mengambil langkah awal buka posisi lalu close posisi trading di 40-50 pips
+3. Stop loss dipasang 15 pips dari posisi sebelum data dirilis, sehingga risk reward ratio sekitar minimum 1:2
+4. Trading jenis ini membutuhkan reaksi yang cepat
+
+
+ 
 
 
 
