@@ -251,7 +251,13 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
 * Market akan mencoba menentukan indeks harga dengan news sebelum data tersebut dirilis. Teknik trading tersebut disebut Short Term Market Sentiment
 * Retail trader harus memahami kondisi market dengan penuh. Orang orang hanya mengikuti market tanpa mengetahui penyebabnya apa. Bagaimana pun juga sebagai trader, jika kita terus memantau harga, sangatlah tidak sulit untuk melihat kecenderungan market misal seminggu yang akan datang
 * Trader harus memahami bahwa market tidak bergerak berdasarkan Teknikal analisis seperti Moving Average atau Bollinger Band. Jika hal itu benar, maka 95% trader akan menghasilkan profit di market. Kebanyakan trader akan memilih teknik yang rumit meski mereka tidak faham akan apa yang mereka gunakan. Sama halnya dengan jika kita menambahkan nilai kepada suatu barang tertentu, meskipun barangnya sama, tetapi harganya bisa berbeda.
-
+* Intinya dari sentimen market adalah memahami psikologi market, pola yang terjadi di dalam market. Trader akan bereaksi baik membeli atau menjual, di sanalah kita akan berhitung dan membuka posisi
+* Bagaimana menentukan bahwa sentimen market sedang naik (bullish) atau turun (bearish)?. Pendekatanya ada 2 jenis yaitu sbb:
+    * Price action-> Tidak ada yang lebih baik dari simple price action teknik. Melihat bagaimana market bereaksi terhadap data fundamental. Jika market sedang naik, maka posisi adalah buy dan tunggu sampai menyentuh titik resistance area sampai akhirnya kita harus sell
+    * Fundamentals news relationship-> Teknik ini membutuhkan pemahaman bagaimana hubungan antara data fundamental yang dirilis saling berhubungan. Berikut list yang bisa dipelajari sehingga membantu kita untuk mengindentifikasi tren dan bagaimana mengetahui sentimen pasar
+    
+    
+ 1. 
  
 
 
