@@ -213,7 +213,24 @@ Teknik news trading "Pre News Trading":
 ### 8-Analisa Mata Uang
 
 
-### 9-Money Management (Management Keuangan)
+### 9-Money Management
+
+News trading membutuhkan money management yang bagus dan risk rewards ratio yang rendah. Teknik money management akan membuat trading profit konsisten.
+
+1. Aturan 1: lindungi uangmu dan target profit yang realistis
+
+* Leverage 
+* Lot
+* Tiap 500$ kita hanya boleh membuka maksimum 1 pasang hedgingan
+* Kerugian maksimum per hari maksimum 2% dari total deposit
+* Tentukan profit per bulan dari deposit, ketika target adalah 50%, maka bersiaplah kehilangan juga 50% dari total deposit
+* Berikut salah satu contoh hitungan untuk contoh beberapa deposit:
+![n9](https://user-images.githubusercontent.com/27078712/86341532-a0554500-bc80-11ea-8e03-5b7de120742a.PNG)
+![n10](https://user-images.githubusercontent.com/27078712/86341740-e7dbd100-bc80-11ea-9f13-da520d6f6590.PNG)
+![n11](https://user-images.githubusercontent.com/27078712/86341755-eca08500-bc80-11ea-815b-7d92716c55c6.PNG)
+
+
+
 
 
 
