@@ -230,6 +230,23 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
 ![n11](https://user-images.githubusercontent.com/27078712/86341755-eca08500-bc80-11ea-815b-7d92716c55c6.PNG)
 
 
+### 10-Sentiment Trading
+
+* Sentiment trading dasarnya adalah membuka posisi jual atau beli dengan melihat kecenderungan market (mengikuti trend)
+* 2 jenis sentiment trading, jangka pendek dan jangka panjang. Tetapi retail trader tidak bisa membuka posisi jangka panjang karena keterbatasan dana dan juga justru jangka pendek lah yang menghasilkan profit yang konsisten
+* Sentiment trading jangka pendek dipengaruhi oleh berita fundamental (kalender ekonomi)
+* Cara mendapatkan keuntungan dari berita fundamental:
+
+    * Selalu lihat beberapa hari sebelum dirilisnya data fundamental seperti tingkat suku bunga, CPI, GDP, dan pidato bank sentral
+    * Perhatikan isu-isu berita yang ada lalu perhatikan pergerakan pasar
+    * Selalu perhatikan hubungan antara data ekonomi yang dirilis. Retail Sales ke GDP, PPI, atau CPI. Jika data misalnya Retail Sales yang dirilis lebih baik dari prediksi untuk minggu ini, maka market cenderungan mengharapkan misal GDP untuk minggu depan juga lebih baik dari prediksinya
+    * Perhatikan market dengan seksama di penutupan hari sebelumnya. Lebih diutamakan juga sesi penutupan di sesi tokyo dan awal pembukaan market eropa
+    * Buka posisi di dalam tren yang telah terjadi jika terlihat trend sebelum data ekonomi dirilis dan tutup posisi sebelum data update akan dirilis. Sentimen market sebenarnya tidak punya efek terhadap pasar. Jika kita bisa membuat profit 40 pips sampai 100 pips di setiap sentimen. Itu sudah lebih dari cukup. Sebagai tambahan, kita juga bisa mendapatkan profit ketika retracment atau reversal dari sentimen market yang ada
+    * Bacalah analisa dari beragam ahli pasar atau ekonomi. Hal tersebut akan membuat pandangan kita lebih luas dan lebih punya gambaran umum apa yang sedang terjadi di pasar
+    * Tidak semua berita fundamental yan dirilis dipergunakan untuk trading atau menghasilkan profit. Jika market tidak menentu, makan sebaiknya tidak trading, kecuali terlihat dengen jelas secara tren dan hubungannya dengan berita fundamental yang dirilis
+    * 
+
+
 
 
 
