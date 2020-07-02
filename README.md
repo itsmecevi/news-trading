@@ -187,8 +187,28 @@ Cara berpikir news-trading:
 2. Kita hanya mengambil langkah awal buka posisi lalu close posisi trading di 40-50 pips
 3. Stop loss dipasang 15 pips dari posisi sebelum data dirilis, sehingga risk reward ratio sekitar minimum 1:2
 4. Trading jenis ini membutuhkan reaksi yang cepat
+![n6](https://user-images.githubusercontent.com/27078712/86331849-d809c000-bc73-11ea-9564-ae181900a601.PNG)
 
 
+ Teknik news trading "The Retracement":
+ 
+1. Tunggu sampai data fundamental dirilis. Buka posisi hanya ketika deviasi antara prediksi dan data yang dirilis sudah mencapai target deviasi
+2. Tunggu sampai market melakukan reversal ke arah sebaliknya, tapi tidak melewati titik posisi ketika data dirilis. Tentukan 10-15 pips. Terkadang ketika deviasi besar kita bisa buka posisi di 20 pips saat reversal. Biasanya market akan melakukan reversal ketika 5-10 menit pertama
+3. Stop loss diletakan 15 pips dari buka posisi 
+4. Cara ini lebih mudah, tetapi kadang kita kehilangan momen karena harus menunggu reversal terlebih dahulu
+![n7](https://user-images.githubusercontent.com/27078712/86333369-fc669c00-bc75-11ea-8151-0d8774685ef6.PNG)
+
+
+Teknik news trading "Pre News Trading":
+
+1. Buka posisi 5 menit sebelum market rilis
+2. Buka posisi dengan paramater sentimen dan teknikal tren
+3. Buka posisi selalu di arah tren terjadi. Walaupun kita buka posisi salah karena tren tidak jelas, sebenarnya kita masih bisa profit dengan memanfaatkan reversal atau titik balik arah dari tren utama. Dengan cara ini, kita mungkin akan menunggu to manapun 2-12 jam
+4. Hanya trading di berita yang tidak akan merubah arah pergerakan tren pasar secara jangka waktu lama. Sebagai contoh, kita tidak trading dengan news NFP,CPI, GDP, dan bank sentral
+5. Cara ini sangatlah canggih, tetapi harus diingat bahwa trading kita adalah mengikuti arah tren dan jangan ditebak angka yang keluar berapa akan mengurangi fokus psikologis kita dalam trading
+![n8](https://user-images.githubusercontent.com/27078712/86334235-2c626f00-bc77-11ea-87e7-8c0f1ae8dece.PNG)
+
+ 
  
 
 
