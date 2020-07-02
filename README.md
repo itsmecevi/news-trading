@@ -232,6 +232,9 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
 
 ### 10-Sentiment Trading
 
+![n12](https://user-images.githubusercontent.com/27078712/86355378-cab0fd80-bc94-11ea-87d8-7dca8741d2c2.PNG)
+
+
 * Sentiment trading dasarnya adalah membuka posisi jual atau beli dengan melihat kecenderungan market (mengikuti trend)
 * 2 jenis sentiment trading, jangka pendek dan jangka panjang. Tetapi retail trader tidak bisa membuka posisi jangka panjang karena keterbatasan dana dan juga justru jangka pendek lah yang menghasilkan profit yang konsisten
 * Sentiment trading jangka pendek dipengaruhi oleh berita fundamental (kalender ekonomi)
