@@ -210,7 +210,10 @@ Teknik news trading "Pre News Trading":
 
  
  
+### 8-Analisa Mata Uang
 
+
+### 9-Money Management (Management Keuangan)
 
 
 
