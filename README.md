@@ -257,8 +257,59 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
     * Fundamentals news relationship-> Teknik ini membutuhkan pemahaman bagaimana hubungan antara data fundamental yang dirilis saling berhubungan. Berikut list yang bisa dipelajari sehingga membantu kita untuk mengindentifikasi tren dan bagaimana mengetahui sentimen pasar
     
     
- 1. 
+ 1. PPI-> CPI : Kenaikan PPI akan menimbulkan anggapan bahwa CPI juga akan naik
+ 2. Retail Sales-> GDP : Retail Sales di USA memberikan dampak sekitar 2/3 dari GDP nya, maka pantas jika Retail Sales cenderung naik, maka GDP juga akan naik
+ 3. 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
