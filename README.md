@@ -298,14 +298,24 @@ Sebelum mempelajari risk reward ration, terlebih dahulu anda harus faham tentang
 * Pergerakan terbesar ada pada saat market amerika di mana jamnya adalah ketika interseksi atau perpotongan jam erop dan amerika. Bisa dilihat disini https://www1.oanda.com/lang/de/forex-trading/analysis/market-hours
 
 
-### 13- Siklus Market
+### 13-Siklus Market
 
 Pergerakan market harian mempunyai pola tertentu yang membentuk sebuah siklus sebagai berikut:
 ![n14](https://user-images.githubusercontent.com/27078712/86447739-fccb6980-bd3f-11ea-94e4-eda3d23dc87e.PNG)
 ![n15](https://user-images.githubusercontent.com/27078712/86452435-7f572780-bd46-11ea-8067-f2d63788188a.PNG)
 
 
+ Ada 2 cara trading dengan menggunakan siklus market:
  
+ 1. Reversal-> yaitu menunggu pembalikan harga pada saat trend berlangsung
+ 2. Breakout-> yaitu menunggu market menembus level tertentu pada saat trend berlangsung
+ 
+ Cara mana yang dipilih, tetaplah memiliki resiko yang sama, dan tetap juga tidak ada cara yang 100% tepat dalam menebak pergerakan market. Karena market itu sendiri dibentuk oleh subjektivitas trader dan hal tersebut tidak ada yang tahu, yang bisa kita lakukan adalah membuat segalanya seperti sebuah IFELSE game dan di setiap open posisi tersebut selalu ada kemungkinan tertentu yang tidak sesuai dengan analisa kita
+ 
+ 
+ ### 14-Referensi Spesial
+ 
+ * 
 
 
 
