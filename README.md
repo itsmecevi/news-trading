@@ -257,9 +257,21 @@ News trading membutuhkan money management yang bagus dan risk rewards ratio yang
     * Fundamentals news relationship-> Teknik ini membutuhkan pemahaman bagaimana hubungan antara data fundamental yang dirilis saling berhubungan. Berikut list yang bisa dipelajari sehingga membantu kita untuk mengindentifikasi tren dan bagaimana mengetahui sentimen pasar
     
     
- 1. PPI-> CPI : Kenaikan PPI akan menimbulkan anggapan bahwa CPI juga akan naik
- 2. Retail Sales-> GDP : Retail Sales di USA memberikan dampak sekitar 2/3 dari GDP nya, maka pantas jika Retail Sales cenderung naik, maka GDP juga akan naik
- 3. 
+1. PPI-> CPI : Kenaikan PPI akan menimbulkan anggapan bahwa CPI juga akan naik
+2. Retail Sales-> GDP : Retail Sales di USA memberikan dampak sekitar 2/3 dari GDP nya, maka pantas jika Retail Sales cenderung naik, maka GDP juga akan naik
+3. Unemployment, Jobless Claims, Unemployment rate-> Retail Sales : Jika orang tidak bekerja, maka pengeluaran juga tidak banyak, maka dari itu pengangguran akan menurunkan Retail Sales
+4. Housing Data-> Durable Goods : Jika pembelian rumah meningkat, maka secara tidak langsung juga pembelian untuk barang-barang tahan lama akan meningkat
+5. PMI-> GDP and General Economy : Tentu saja PMI akan berpengaruh terhadap GDP, apalagi di negara-negara industrialis seperti USA. PMI akan berpengaruh ke GDP dan perekonomian
+6. ADP-> NFP : ADP berpengaruh terhadap NFP. Tetapi jika berkebalikan, maka ADP tersebut keliru
+
+
+Parameter ekonomi yang telah disebutkan diatas justru yang menggerakan pasar. Hal yang terpenting adalah melihat pola antara data ekonomi dengan pergerakan pasar. Hal selanjutnya adalah menentukan timing atau waktu harian kapan harus membuka posisi, dan hal tersebut bisa dijawab dengan Market Cycle atau Pola market harian yang akan dijelaskan pada bab **Market Cycle**
+
+
+### 11-Risk:Reward Ratio
+
+
+
  
 
 
