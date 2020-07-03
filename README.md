@@ -313,9 +313,26 @@ Pergerakan market harian mempunyai pola tertentu yang membentuk sebuah siklus se
  Cara mana yang dipilih, tetaplah memiliki resiko yang sama, dan tetap juga tidak ada cara yang 100% tepat dalam menebak pergerakan market. Karena market itu sendiri dibentuk oleh subjektivitas trader dan hal tersebut tidak ada yang tahu, yang bisa kita lakukan adalah membuat segalanya seperti sebuah IFELSE game dan di setiap open posisi tersebut selalu ada kemungkinan tertentu yang tidak sesuai dengan analisa kita
  
  
+ 
  ### 14-Referensi Spesial
  
- * 
+ * Forex Factory: untuk mengetahui kalender ekonomi-> https://www.forexfactory.com/calendar?week=jul5.2020#closed
+ * DailyFx: untuk mengetahui pendapat para market analyst, yang terkenal adalah Kathy Lien dan Boris Schlossberg
+ * Federal Reserve Bank of Cleveland-> untuk mengetahui arah kebijakan the FED (Bank Sentral Amerika)-> https://www.clevelandfed.org/
+ * Mataf: untuk mengetahui korelasi dari berbagai pasar keuangan-> https://www.mataf.net/en
+ * Koyfin: alternatif untuk bloomberg terminal yang gratis-> https://www.koyfin.com/
+ 
+ Ada 3 cara bereaksi SETELAH data fundamental ekonomi dirilis, yaitu sebagai berikut:
+ 
+ 1. Buy atau Sell di arah tren yang sedang terjadi
+ 2. No Trading
+ 3. Reversal 
+ 
+ Pilihan tersebut harus disertai riset mendalam dan mapping selama beberapa lama, karena perdagangan finansial sangat high risk
+ 
+ 
+ 
+ 
 
 
 
