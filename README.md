@@ -286,9 +286,22 @@ Sebelum mempelajari risk reward ration, terlebih dahulu anda harus faham tentang
 
 
 
+### 12-Jutaan Dollar Tips
+
+* Tidak trading di waktu berikut:
+  * 8:25 ‐ 8:30am EST
+  * 4:25‐4:35am EST
+  * Lunchtime Reversal-> di jam 7:00am or 11:30am EST
+  * Stock Market Jitter Reversal-> 3:00am EST untuk sesi eropa London dan 9:30am EST untuk sesi amerika New York
+ 
+* Pergerakan sesi Asia biasanya sangat lamban dan linear, ketika pembukaan market naik, maka ada kecenderungan untuk naik juga
+* Pergerakan terbesar ada pada saat market amerika di mana jamnya adalah ketika interseksi atau perpotongan jam erop dan amerika. Bisa dilihat disini https://www1.oanda.com/lang/de/forex-trading/analysis/market-hours
 
 
+### 13- Siklus Market
 
+Pergerakan market harian mempunyai pola tertentu yang membentuk sebuah siklus sebagai berikut:
+![n14](https://user-images.githubusercontent.com/27078712/86447739-fccb6980-bd3f-11ea-94e4-eda3d23dc87e.PNG)
 
 
  
