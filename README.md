@@ -270,6 +270,25 @@ Parameter ekonomi yang telah disebutkan diatas justru yang menggerakan pasar. Ha
 
 ### 11-Risk:Reward Ratio
 
+Sebelum mempelajari risk reward ration, terlebih dahulu anda harus faham tentang beberapa istilah berikut ini:
+
+* Open Posisi-> melakukan posisi buy atau sell di instrument keuangan
+* Stop Loss-> otomatis keluar trading untuk menghindari resiko kerugian yang lebih besar pada saat kerugian berlangsung
+* Take Profit-> otomatis keluar trading untuk membatasi profit pada saat profit sedang berlangsung, alasan kenapa profit dibatasi adalah bahwa profit juga sebanding dengan resiko, artinya jika profit besar, maka resiko juga akan semakin membesar, karena market sangat liar dan tidak bisa dikendalikan, maka pembatasan profit akan sama denga pembatasan resiko
+* Buy Stop: otomatis buy di angka tertentu pada saat level harga di bawah
+* Sell Stop: otomatis sell di angka tertentu pada saat level harga di atas
+* Buy Limit: otomatis buy di angka tertentu pada saat harga di atas dan berharap harga naik kembali
+* Sell limit: otomatis sell di angka tertentu pada saat harga di bawah dan berharap harga kembali turun
+
+> Risk Reward Ration adalah membandingkan antara resiko kerugian yang diderita dengan potensi keuntungan yang bisa didapat
+
+![n13](https://user-images.githubusercontent.com/27078712/86445427-8b3dec00-bd3c-11ea-8350-78c43a64238b.jpg)
+
+
+
+
+
+
 
 
  
